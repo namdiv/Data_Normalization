@@ -17,13 +17,13 @@ Se contará con una tabla de localidades de la cual será necesario analizar la 
 
 Se cuenta con los siguientes datasets:
 
-Clientes.csv
-Compra.csv
-Gasto.csv
-Localidades.csv
-Proveedores.csv
-Sucursales.csv
-Venta.csv
+- Clientes.csv
+- Compra.csv
+- Gasto.csv
+- Localidades.csv
+- Proveedores.csv
+- Sucursales.csv
+- Venta.csv
 
 Es necesario tener en cuenta que hay otro dataset de clientes (Clientes_2.csv) y no se descarta que puedan aparecer otros. Por eso, se deberá contemplar que el proceso incluya mas dataset de clientes y que no haya duplicados. Esto deberia ser automatico, es fundamental pensar en algo robusto para no tener problemas a futuro.
 
